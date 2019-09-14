@@ -1,0 +1,121 @@
+body {
+  background-color: #f1f0cf;
+  margin: 0;
+  text-align: center;
+  font-family: 'Squada One', cursive;
+  font-size: 1.3rem;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: thick;
+  width: 3%;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625rem;
+  letter-spacing: +0.1em;
+  color: #f1f0cf;
+  margin: 0 auto;
+}
+.p {
+  font-size: 1.8rem;
+  font-weight: normal;
+}
+
+h2 {
+  color: #2f4f4f;
+  font-family: 'Righteous', cursive;
+}
+
+h3 {
+  color: #2f4f4f;
+  font-family: 'Righteous', cursive;
+}
+
+h4 {
+  color: #2f4f4f;
+  font-family: 'Righteous', cursive;
+}
+
+a:hover {
+  color: gold;
+}
+
+.intro {
+  background-color: #4baea0;
+  position: relative;
+  padding: 100px;
+  color: #f1f0cf;
+}
+
+.lang {
+  height: 15%;
+  width: 15%;
+}
+
+.bcloud {
+  position: absolute;
+  left: 400px;
+  bottom: 400px;
+}
+
+.tcloud {
+  position: absolute;
+  right: 400px;
+  top: 200px;
+}
+
+.top-container {
+  color: #008080;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.mid-container {
+  color: #008080;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.bottom-container {
+  color: #008080;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.last-container {
+  color: #2f4f4f;
+  background-color: #4baea0;
+  margin: 0 0 0;
+  padding: 50px;
+}
+
+.h {
+  height: 40%;
+  width: 40%;
+}
+
+.info {
+  background-color: #4baea0;
+  margin: 0 0;
+  padding: 100px;
+  color: #f1f0cf;
+  text-align: center;
+}
+.tinfo {
+  text-align: left;
+  margin: 0 auto;
+}
+.f {
+  height: 40%;
+  width: 80%;
+}
+.footer-link {
+  margin: 10px 20px;
+}
+a {
+  color: #008080;
+}
